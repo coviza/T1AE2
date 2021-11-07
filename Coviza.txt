@@ -1,3 +1,11 @@
 Del Moral
+<<<<<<< HEAD
 realizo cambioss
 user2 
+=======
+<<<<<<< HEAD
+user1
+=======
+realizo cambioss
+>>>>>>> 382d4ede0679e7bda43490d63be983c794dc86de
+>>>>>>> 8796e16347a0a3e425f6ecd64c2b735e22035d6b
