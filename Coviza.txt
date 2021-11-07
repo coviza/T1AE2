@@ -1,2 +1,6 @@
 Del Moral
+<<<<<<< HEAD
 user1
+=======
+realizo cambioss
+>>>>>>> 382d4ede0679e7bda43490d63be983c794dc86de
